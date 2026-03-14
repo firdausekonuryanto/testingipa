@@ -1,0 +1,29 @@
+class RoutesNames {
+  static const home = '/home';
+  static const login = '/login';
+  static const laporanRetail = '/laporan-retail';
+  static const createLaporanRetail = '/create-laporan-retail';
+  static const viewLaporanRetail = '/view-laporan-retail';
+  static const laporanOdp = '/laporan-odp';
+  static const createLaporanOdp = '/create-laporan-odp';
+  static const viewLaporanOdp = '/view-laporan-odp';
+  static const salary = '/salary';
+  static const kpi = '/kpi';
+  static const forgotPassword = '/forgot-password';
+  static const editProfile = '/edit-profile';
+  static const attendanceDetail = '/attendance-detail';
+  static const task = '/task';
+  static const createTask = '/create-task';
+  static const leave = '/leave';
+  static const createLeave = '/create-leave';
+  static const settingsTheme = '/settings-theme';
+  static const productSubscription = '/product-subscription';
+  static const createProductSubscription = '/create-product-subscription';
+  static const indexdynamicfrom = '/index-dynamic-forms';
+  static const selectdynamicfrom = '/select-dynamic-forms';
+  static const createdynamicfrom = '/create-dynamic-forms';
+  static const editdynamicfrom = '/edit-dynamic-forms';
+  static const showdynamicfrom = '/show-dynamic-forms';
+  static const resetPasswordScreen = '/reset-password';
+  static const notification = '/notification';
+}
